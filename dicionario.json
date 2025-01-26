@@ -1,0 +1,671 @@
+{
+    "1. Relação com o(a) RESPONSÁVEL da família ": {
+        "1": "Responsável pelo domicílio",
+        "2": "Cônjuge ou companheiro(a)",
+        "3": "Filho(a) ou enteado(a)",
+        "4": "Genro ou nora",
+        "5": "Pai ou mãe",
+        "6": "Sogro(a)",
+        "7": "Neto(a) ou bisneto(a)",
+        "8": "Irmão(ã)",
+        "9": "Avô(ó)",
+        "10": "Outro parente",
+        "11": "Agregado(a), convivente",
+        "96": "Outro",
+        "98": "Sem informação"
+    },
+    "Sexo ": {
+        "1": "Masculino",
+        "2": "Feminino",
+        "96": "Outro"
+    },
+    "3.Faixa Etária ": {
+        "1": "Até 14 anos",
+        "2": "15 a 19 anos",
+        "3": "20 a 24 anos",
+        "4": "25 a 29 anos",
+        "5": "30 a 34 anos",
+        "6": "35 a 39 anos",
+        "7": "40 a 44 anos",
+        "8": "45 a 49 anos",
+        "9": "50 a 54 anos",
+        "10": "55 a 59 anos",
+        "11": "60 a 64 anos",
+        "12": "65 a 69 anos",
+        "13": "70 anos ou mais"
+    },
+    "4. Cor/Etnia ": {
+        "1": "Branca",
+        "2": "Preta",
+        "3": "Amarela",
+        "4": "Parda",
+        "5": "Indígena"
+    },
+    "5. Escolaridade ": {
+        "1": "Analfabeto",
+        "2": "Apenas sabe ler e escrever",
+        "3": "Alfabetização de Jovens e Adultos",
+        "4": "Ensino Fundamental I (Primário, 1º grau 1ª a 4ª série)",
+        "5": "Ensino Fundamental II regular ou supletivo (Ginásio, 1º grau 5ª a 8ª série)",
+        "6": "Ensino Médio regular ou supletivo (Científico, Clássico, Técnico, Normal, 2º grau)",
+        "7": "Ensino Superior de Graduação (Bacharelado, Licenciatura, Tecnólogo)",
+        "8": "Ensino Superior Pós-Graduação Especialização (mínimo de 360 horas)",
+        "9": "Ensino Superior Pós-Graduação Mestrado",
+        "10": "Ensino Superior Pós-Graduação Doutorado",
+        "96": "Outro"
+    },
+    "7. CONDIÇÃO DE OCUPAÇÃO do imóvel/domicílio ": {
+        "1": "Próprio",
+        "2": "Alugado",
+        "3": "Cedido",
+        "4": "Ocupado",
+        "5": "Outro"
+    },
+    "8. Possui ESCRITURA/documento de posse do imóvel? ": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "Não sei informar",
+        "99": "Não se aplica (não é o proprietário)"
+    },
+    "9. Obteve o HABITE-SE da Prefeitura? ": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "Não sei informar",
+        "98": "Sem informação",
+        "99": "Não se aplica"
+    },
+    "10. Há quanto tempo reside no imóvel?": {
+        "1": "Um ano",
+        "2": "Mais de 1 ano a 5 anos",
+        "3": "Mais de 5 anos a 10 anos",
+        "4": "Mais de 10 anos a 15 anos",
+        "5": "Mais de 15 anos a 20 anos",
+        "6": "Mais de 20 anos"
+    },
+    "11. TIPOdoimóvel/domicílio?": {
+        "1": "Casa individual",
+        "2": "Apartamento",
+        "3": "Casa de cômodos",
+        "96": "Outro"
+    },
+    "12. Se o imóvel/domicílio é do tipo casa,quantos PAVIMENTOS existem?": {
+        "1": "1 único pavimento (casa térrea)",
+        "2": "2 pavimentos (térreo + 1 pavimento, acima ou abaixo do nível térreo)",
+        "3": "3 pavimentos (térreo + 2 pavimentos, acima ou abaixo do nível térreo)",
+        "4": "4 pavimentos (térreo + 3 pavimentos, acima ou abaixo do nível térreo)",
+        "5": "Mais de 4 pavimentos",
+    "99": "Não se aplica"
+    },
+    "13. Material predominante nas PAREDES externas do imóvel": {
+        "1": "Bloco",
+        "2": "Madeira",
+        "3": "Plástico",
+        "4": "Misto",
+        "96": "Outro"
+    },
+    "14. Existência de REVESTIMENTO(reboco) nas paredes externasdo imóvel": {
+        "1": "Sim, apenas por fora",
+        "2": "Sim, apenas por dentro",
+        "3": "Sim, por fora e por dentro",
+        "4": "Sim, em parte por fora",
+        "5": "Sim, em parte por dentro",
+        "6": "Sim, em parte por fora e em parte por dentro",
+        "7": "Não tem por fora e por dentro",
+        "96": "Outro"
+    },
+    "15. Quantidade de CÔMODOS no imóvel": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7 ou mais"
+    },
+    "16. QUANTOS CÔMODOS d odomicilio são utilizados exclusivamente como dormitório?": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7 ou mais"
+    },
+    "17. Quantos cômodos do imóvel NÃO POSSUEM JANELA/BASCULANTE/COBOGÓ? ": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7 ou mais"
+    },
+    "mais_de_3_comodos": {
+        "100": "Com mais de 3 cômodos",
+        "200": "Com 3 ou menos cômodos"
+    },
+    "hab_domitorio": {
+        "100": "Até 2 habitantes por domicílio",
+        "200": "Mais de 2 habitantes por domicílio"
+    },
+    "18. Indicar se existe VEGETAÇÃO no terreno/rua/casa/prédio ": {
+        "1": "Jardim (frente) no imóvel",
+        "2": "Quintal (fundo) no imóvel",
+        "3": "Jardim (lateral esquerda) no imóvel",
+        "4": "Jardim (lateral direita) no imóvel",
+        "5": "Árvore(s) no passeio ao longo da rua",
+        "6": "Árvore na porta da casa/prédio",
+        "96": "Outro",
+        "99": "Não se aplica"
+    },
+    "19.1 Existe uma biblioteca no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.2 Existe um centro comunitário no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.3 Existem ONGs do bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.4 Existe um centro religioso no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.5 Existe comércio e/ou serviços em geral n obairro(Ex:farmácia e casalotérica, banco, sapataria, ótica, etc.)?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.6 Existe creche no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.7 Existe escol apública no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19. 8Existe escola particular no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.9 Existe unidade de saúde no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.10 Existe parque infantil no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.11 Existe praça no bairro mas não utiliza?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.12 Existe praça no bairro utilizada pelo morador?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.13 Existe praça no bairro não utilizada pelo morador por motivo de segurança?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.14 Existe praça no bairro não utilizada pelo morador por precariedade dos equipamentos?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.15 Existe praça esportiva no bairro?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.16 Existe acessibilidade urbana no bairro (Piso tátil, rampas de acesso, etc.)?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.17 Existe comercio de alimentos no bairro (Ex: supermercado, mercadinho, açougue, quitanda, hortifrúti, hipermercado, mercearia, etc.)?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.18 Existem feira e mercado público no bairro (feira-livre, mercado municipal, fruteiro, verdureiro, ambulantes, feirinha de frutas, veículos, etc.)?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "19.19 Existe padaria no bairro (padaria, confeitaria, casa de pães, casa de doce, panificadora, posto de pão, depósito de pão, etc.)?": {
+        "1": "Sim",
+        "2": "Não"
+    },
+    "20.Forma de ABASTECIMENTO DE ÁGUA do domicílio ": {
+        "1": "Rede de distribuição de água da Embasa",
+        "2": "Poço escavado ou tubular implantado na área do domicílio",
+        "3": "Poço tubular implantado pelo condomínio com tratamento da água",
+        "4": "Poço tubular implantado pelo condomínio sem tratamento da água",
+        "5": "Fonte, lagoa ou rio",
+        "96": "Outro"
+    },
+    "21. De uma forma geral, FREQUÊNCIA do abastecimento de água da Embasa (marque 1 alternativa – a alternativa principal, se a resposta da questão 20 foi a alternativa 1)": {
+    "1": "Tem água durante o dia todo (dia e noite)",
+    "2": "A água só chega à noite todos os dias",
+    "3": "Falta água até dois dias da semana",
+    "4": "Falta água mais de 2 dias da semana mas o reservatório garante o abastecimento",
+    "5": "Falta água mais de 2 dias da semana e compra água quando a água acaba",
+    "96": "Outro",
+    "99": "Não se aplica"
+},
+"22. Em sua opinião, qual a QUALIDADE DA ÁGUA da Embasa que chega na sua torneira?(não considerar o cheiro/odor de cloro)": {
+    "1": "Boa (límpida, sem outro cheiro, gosto bom)",
+    "2": "Regular (apresenta alguma cor/sujeira, algum cheiro)",
+    "3": "Ruim (escura/suja, cheiro ruim)",
+    "99": "Não se aplica"
+},
+"23. Existência de BANHEIRO com instalações hidro sanitárias": {
+    "1": "Sim, tem banheiro, com vaso sanitário, pia e chuveiro",
+    "2": "Sim, tem banheiro, com vaso sanitário e pia",
+    "3": "Sim, tem banheiro, com vaso sanitário e chuveiro",
+    "4": "Sim, tem banheiro com vaso sanitário",
+    "5": "Sim, tem banheiro, apenas com chuveiro",
+    "6": "Não tem banheiro"
+},
+"24. Existência de RESERVATÓRIO no domicílio ou no edifício ou condomínio.": {
+    "1": "Sim, tem reservatório com tampa",
+    "2": "Sim, tem reservatório sem tampa",
+    "3": "Sim, tem reservatório (não sabe especificar se com ou sem tampa)",
+    "4": "Não tem reservatório"
+},
+"25. Destino dosESGOTOS DOMÉSTICOS": {
+    "1": "Rede coletora de esgoto em bom funcionamento",
+    "2": "Rede coletora de esgoto com funcionamento precário",
+    "3": "Fossa “séptica”",
+    "4": "Galeria/tubulação de drenagem de águas pluviais (água de chuva)",
+    "5": "Canal de drenagem de águas pluviais (água de chuva)",
+    "6": "Em vala a céu aberto no solo/terreno",
+    "7": "Direto da casa no rio",
+    "96": "Outro"
+},
+"26. Condições da REDEDEDRENAGEM do logradouro": {
+    "1": "Em aparente bom estado",
+    "2": "Boca de lobo obstruída ou danificada",
+    "3": "Poço de visita obstruído ou danificado",
+    "4": "Galeria/tubulação obstruída ou danificada",
+    "5": "Sarjetas/sarjetões obstruídos ou danificados",
+    "6": "Escadarias ou rampas drenantes obstruídas ou danificadas",
+    "7": "Não existe rede de drenagem",
+    "96": "Outro"
+},
+"27. Qual a situação do LOGRADOURO": {
+    "1": "É uma rua ou avenida pavimentada (5 a 9 metros)",
+    "2": "É uma rua ou avenida sem pavimentação (5 a 9 metros)",
+    "3": "É uma passagem/caminho estreito com pavimentação",
+    "4": "É uma passagem/caminho estreito sem pavimentação",
+    "5": "É uma escada de barro",
+    "6": "É uma escada de concreto, placas ou outro",
+    "96": "Outro"
+},
+"28. Frequência da COLETA DE LIXO": {
+    "1": "Todos os dias o caminhão passa e coleta o lixo porta-a-porta",
+    "2": "O caminhão passa dia sim e dia não e coleta o lixo porta-a-porta",
+    "3": "O caminhão passa uma vez por semana e coleta o lixo porta-a-porta",
+    "4": "O caminhão passa a cada 15 dias e coleta o lixo porta-a-porta",
+    "5": "O caminhão passa na rua e coleta o lixo descartado em caixa estacionária (container) com frequência regular",
+    "6": "O caminhão passa na rua e coleta o lixo descartado em caixa estacionária (container) com frequência esporádica",
+    "7": "O caminhão não passa na rua e o lixo é descartado em caixa estacionária (container) de outra rua",
+    "8": "O caminhão não passa na rua e o lixo é descartado no ponto de lixo",
+    "9": "Não tem coleta de lixo na rua e o lixo é descartado no terreno baldio, no canal ou no rio",
+    "96": "Outro"
+},
+"29. Ocorrência de situação de RISCO no logradouro nos últimos 2 anos ": {
+    "1": "Alagamento",
+    "2": "Enchente",
+    "3": "Deslizamento de terra",
+    "4": "Não há ocorrência de situações de risco",
+    "96": "Outro"
+},
+"30. Quala LOCALIZAÇÃO do domicílio ": {
+    "1": "Terreno firme",
+    "2": "Encosta",
+    "3": "Fundo de vale",
+    "4": "Beira de rio, córrego ou drenagem",
+    "5": "Sobre córrego ou canal de macrodrenagem",
+    "96": "Outro"
+},
+"31.OpiniãosobreosRIOS,LAGOSEFONTESdobairroedacidadedeSalvador": {
+    "1": "Uma área de lazer e convivência",
+    "2": "Um lugar para pescar",
+    "3": "Um canal de esgoto",
+    "4": "Um lugar onde se joga lixo",
+    "5": "Um lugar para pegar água ou dar água para os animais",
+    "6": "Um lugar bonito",
+    "96": "Outro"
+},
+"32. Em relação à TEMPERATURA DO AR, sua CASA apresenta uma condição ": {
+    "1": "Muito boa (a temperatura é muito satisfatória ao longo de todo o ano)",
+    "2": "Boa (não é quente no verão, nem frio no inverno – agradável o ano todo)",
+    "3": "Regular (quente no verão e frio no inverno)",
+    "4": "Ruim (muito quente no verão e muito frio no inverno)",
+    "5": "Muito ruim (a temperatura compromete a qualidade da saúde)"
+},
+"33. Em relação à TEMPERATURA DO AR, seu BAIRRO apresenta uma condição ": {
+    "1": "Muito boa (a temperatura é muito satisfatória ao longo de todo o ano)",
+    "2": "Boa (não é quente no verão, nem frio no inverno – agradável o ano todo)",
+    "3": "Regular (quente no verão e frio no inverno)",
+    "4": "Ruim (muito quente no verão e muito frio no inverno)",
+    "5": "Muito ruim (a temperatura compromete a qualidade da saúde)"
+},
+"34. Em relação à ILUMINAÇÃO PÚBLICA, seu BAIRRO apresenta uma condição ": {
+    "1": "Muito boa (bem iluminado)",
+    "2": "Boa (iluminado de forma satisfatória)",
+    "3": "Regular (iluminação apenas suficiente)",
+    "4": "Ruim (iluminação precária, com interrupção)",
+    "5": "Muito ruim (sem iluminação)"
+},
+"35. Em relação ao RUÍDO AMBIENTAL, o seu BAIRRO apresenta uma condição ": {
+    "1": "Muito boa (bastante silencioso)",
+    "2": "Boa (silencioso)",
+    "3": "Regular (Um pouco de ruído ambiental)",
+    "4": "Ruim (Tem muito ruído ambiental)",
+    "5": "Muito ruim (O ruído ambiental gera problema de saúde)"
+},
+"36. Em relação à POLUIÇÃO DO AR, seu BAIRRO apresenta uma condição ": {
+    "1": "Muito boa (Sem poluição)",
+    "2": "Boa (Pouco poluído)",
+    "3": "Regular (Poluído)",
+    "4": "Ruim (Muito poluído)",
+    "5": "Muito ruim (Poluição gera problema de saúde)"
+},
+"37. Em relação à COBERTURA VEGETAL, seu BAIRRO apresenta uma condição ": {
+    "1": "Muito boa (com bastante vegetação distribuída no bairro, tais como muita arborização em parque, nas ruas e praças)",
+    "2": "Boa (com vegetação distribuída no bairro, tal como alguma arborização nas ruas e nas praças)",
+    "3": "Regular (com alguma vegetação distribuída no bairro, tal como alguma arborização nas ruas ou praças)",
+    "4": "Ruim (com pouca vegetação, praças ajardinadas e ruas sem arborização)",
+    "5": "Muito ruim (sem vegetação)"
+},
+"38. OCUPAÇÃO PRINCIPAL do (a) responsável da família (Registre a alternativa principal se na semana de 25 a 31 de janeiro de 2018, durante pelo menos 1 hora, o responsável trabalhou nas atividades abaixo relacionadas ganhando dinheiro, produtos, mercadorias ou benefícios)": {
+    "1": "Dirigentes em geral",
+    "2": "Profissionais das ciências e das artes",
+    "3": "Técnicos de nível médio",
+    "4": "Trabalhadores de serviços administrativos",
+    "5": "Trabalhadores dos serviços",
+    "6": "Trabalhadores dos serviços domésticos",
+    "7": "Vendedores e prestadores de serviços do comércio",
+    "8": "Vendedores e prestadores de serviços do comércio informal",
+    "9": "Trabalhadores agrícolas",
+    "10": "Trabalhadores da produção de bens e serviços de reparação e manutenção",
+    "11": "Membros das forças armadas e auxiliares",
+    "12": "Ocupações mal definidas",
+    "13": "Desempregado (caso tenha procurado trabalho na semana de 25 a 31 de janeiro de 2018)",
+    "98": "Sem informação"
+},
+"39. Qual a POSIÇÃO NA OCUPAÇÃO PRINCIPAL do (a) responsável de família ": {
+    "1": "Empregado com carteira de trabalho assinada",
+    "2": "Empregado no serviço doméstico com carteira de trabalho assinada",
+    "3": "Empregado terceirizado com carteira de trabalho assinada",
+    "4": "Militar do Exército, Marinha, Aeronáutica, Polícia Militar ou Corpo de Bombeiros",
+    "5": "Contratação sob Regime especial de Direito Administrativo - REDA",
+    "6": "Empregado pelo Regime Jurídico dos Funcionários Públicos",
+    "7": "Empregado sem carteira de trabalho assinada",
+    "8": "Empregado terceirizado sem carteira de trabalho assinada",
+    "9": "Empregado no serviço doméstico sem carteira de trabalho assinada",
+    "10": "Conta própria",
+    "11": "Não remunerado",
+    "12": "Empregador",
+    "96": "Outro",
+    "99": "Não se aplica (não tem ocupação / desempregado)"
+},
+"40. RENDA DO (A) RESPONSÁVEL (mensal / bruta / INDIVIDUAL – mês de referência: janeiro de 2018 / Salário mínimo de R$ 954,00 - marque 1 alternativa)": {
+    "1": "Até ½ (até R$ 477,00)",
+    "2": "Mais de ½ a 1 (de R$ 477,01 a R$ 954,00)",
+    "3": "Mais de 1 a 2 (de R$ 954,01 a R$ 1.908,00)",
+    "4": "Mais de 2 a 3 (de R$ 1.908,01 a R$ 2.862,00)",
+    "5": "Mais de 3 a 5 (de R$ 2.862,01 a R$ 4.770,00)",
+    "6": "Mais de 5 a 10 (de R$ 4.770,01 a R$ 9.540,00)",
+    "7": "Mais de 10 a 15 (de R$ 9.540,01 a R$ 14.310,00)",
+    "8": "Mais de 15 a 20 (de R$ 14.310,01 a R$ 19.080,00)",
+    "9": "Mais de 20 a 30 (de R$ 19.080,01 a R$ 28.620,00)",
+    "10": "Mais de 30 (a partir de R$ 28.620,01)",
+    "11": "Sem rendimento"
+},
+"41. RENDA FAMILIAR (mensal / bruta / FAMILIAR – mês de referência janeiro de 2018 / Salário mínimo de R$ 954,00 - marque 1 alternativa)": {
+    "1": "Até ½ (até R$ 477,00)",
+    "2": "Mais de ½ a 1 (de R$ 477,01 a R$ 954,00)",
+    "3": "Mais de 1 a 2 (de R$ 954,01 a R$ 1.908,00)",
+    "4": "Mais de 2 a 3 (de R$ 1.908,01 a R$ 2.862,00)",
+    "5": "Mais de 3 a 5 (de R$ 2.862,01 a R$ 4.770,00)",
+    "6": "Mais de 5 a 10 (de R$ 4.770,01 a R$ 9.540,00)",
+    "7": "Mais de 10 a 15 (de R$ 9.540,01 a R$ 14.310,00)",
+    "8": "Mais de 15 a 20 (de R$ 14.310,01 a R$ 19.080,00)",
+    "9": "Mais de 20 a 30 (de R$ 19.080,01 a R$ 28.620,00)",
+    "10": "Mais de 30 (a partir de R$ 28.620,01)",
+    "11": "Sem rendimento"
+},
+"42. Qual(is) a(s) principais fontes d erendimento da família": {
+    "1": "Trabalho",
+    "2": "Renda do Capital / Imobiliária",
+    "3": "Benefícios de Políticas Sociais",
+    "4": "Aposentadorias e Pensões",
+    "5": "Doações",
+    "99": "Não se aplica (não tem renda)"
+},
+"Classificação EBIA": {
+    "0": "SA (Segurança Alimentar)",
+    "1": "IAL (Insegurança Alimentar Leve)",
+    "2": "IAM (Insegurança Alimentar Moderada)",
+    "3": "IAG (Insegurança Alimentar Grave)",
+    "99": "NA (Não se aplica, domicílios perdidos para a EBIA)"
+},
+"44. Qual a principal ATITUDE adotada pela família na falta de alimento? (marque apenas uma alternativa)": {
+    "1": "Pediram alimentos emprestados a parentes, vizinhos e/ou amigos",
+    "2": "Procuraram emprego (emprego melhor ou segundo emprego; um membro da família que não trabalhava arrumou emprego etc.)",
+    "3": "Prestaram pequenos serviços a parentes e amigos em troca de alimentos",
+    "4": "Receberam ajuda de associação religiosa, igreja",
+    "5": "Compraram fiado",
+    "6": "Receberam ajuda do governo municipal, estadual e federal",
+    "7": "Deixaram de comprar alimentos supérfluos (biscoitos, refrigerantes, etc.)",
+    "8": "Receberam alimentos da comunidade, vizinhos, parentes e amigos",
+    "9": "Comeram menos carnes",
+    "10": "Cadastraram-se em algum programa governamental de assistência social",
+    "11": "Comeram menos frutas, verduras e legumes",
+    "12": "Não fizeram nada",
+    "13": "Foram pescar, caçar e colher frutos",
+    "14": "Pediram dinheiro emprestado",
+    "15": "Separaram em feiras e mercados e aproveitaram alimentos",
+    "96": "Outros",
+    "99": "Não se aplica"
+},
+"45. Alguma criança, na família, com menos de um ano, MORREU?– indique a(s) causa(s) da(s) morte(s) ": {
+    "1": "Não teve morte",
+    "2": "Acidentes (trânsito, afogamento, sufocação, queimaduras, queda intoxicação, arma de fogo, etc.)",
+    "3": "Doenças diarreicas",
+    "4": "Infecções respiratórias",
+    "5": "Anomalias congênitas (Má-formação de nascença, Síndrome de Down)",
+    "6": "Câncer",
+    "7": "Leucemia",
+    "8": "Meningites",
+    "9": "Outras doenças infecciosas",
+    "10": "Outras doenças parasitárias",
+    "96": "Outros",
+    "99": "Não se aplica"
+},
+"46.Tem alguém na família que OMÉDICO TENHA DIAGNOSTICADO algumas dessas DOENÇAS?": {
+    "1": "Pressão alta",
+    "2": "Diabetes",
+    "3": "Colesterol alto",
+    "4": "Anemia",
+    "5": "Deficiência de Vitamina A",
+    "6": "Doença respiratória",
+    "7": "Leptospirose",
+    "8": "Dengue",
+    "9": "Depressão",
+    "10": "Zika",
+    "11": "Chikungunya",
+    "12": "Não tem problema de saúde na família",
+    "96": "Outros"
+},
+"47. Existência de FUMANTE (s) na família ": {
+    "1": "Sim",
+    "2": "Não"
+},
+"48. Algum membro da família (a) já sofreu QUEDAS dentro do domicílio e em qual local? ": {
+    "1": "Sim, queda no banheiro",
+    "2": "Sim, queda de degrau/ escada",
+    "3": "Sim, queda de árvore",
+    "4": "Sim, queda de laje",
+    "5": "Sim, queda do telhado",
+    "6": "Sim, queda de andaime",
+    "7": "Sim, queda de mobília (por exemplo: da cama, da cômoda, outro)",
+    "8": "Nenhum morador sofreu queda",
+    "96": "Outros"
+},
+"49. N° de MEMBROS DA FAMILIA com mais de 60 anos de idade ": {
+    "1": "1 a 2",
+    "2": "3 a 4",
+    "3": "5 a 6",
+    "4": "Mais de 7",
+    "99": "Não se aplica (não tem membros com mais de 60 anos)"
+},
+"50. N° de MEMBROS DA FAMÍLIA com menos de 5 anos de idade ": {
+    "1": "1 a 2",
+    "2": "3 a 4",
+    "3": "5 a 6",
+    "4": "Mais de 7",
+    "99": "Não se aplica (não tem membros menores de 5 anos)"
+},
+"51. Forma de ACESSO AO SERVIÇO DE SAÚDE mais utilizado pelo responsável ": {
+    "1": "Seguro de Saúde",
+    "2": "Particular, direto",
+    "3": "Unidade pública de saúde (SUS)",
+    "4": "Recorre ao serviço público e ao particular",
+    "5": "Não tem problema de saúde",
+    "6": "Não usa o serviço de saúde",
+    "96": "Outros"
+},
+"52. MEIO DE TRANSPORTE/LOCOMOÇÃO usado com mais frequência para o deslocamento CASA- TRABALHO pelo responsável ": {
+    "1": "A pé",
+    "2": "Bicicleta",
+    "3": "Carro",
+    "4": "Moto",
+    "5": "Ônibus",
+    "6": "Trem",
+    "7": "Metrô",
+    "8": "Táxi",
+    "9": "Mototáxi",
+    "10": "Uber",
+    "11": "Transporte informal",
+    "12": "Marítimo (Barco/ Ferry)",
+    "13": "Transporte Corporativo (empresa)",
+    "14": "Ônibus e metrô",
+    "96": "Outros",
+    "99": "Não se aplica (não trabalha)"
+},
+"53. Quanto TEMPO leva para o responsável se deslocar de casa ao trabalho – uma perna / uma ida ": {
+    "1": "Até 15 minutos",
+    "2": "De 16 a 30 minutos",
+    "3": "De 31 a 45 minutos",
+    "4": "De 46 a 60 minutos",
+    "5": "De 61 minutos a 120",
+    "6": "Mais de 120 minutos (2 horas)",
+    "99": "Não se aplica (não trabalha)"
+},
+"54. Você se sente SEGURO no seu BAIRRO? ": {
+    "1": "Sim, qualquer dia e horário",
+    "2": "Mais ou menos, apenas durante o dia",
+    "3": "Não",
+    "96": "Outros"
+},
+"55. Na sua opinião qual o principal PROBLEMA DE SEGURANÇA no BAIRRO? ": {
+    "1": "Homicídio doloso (com intenção de matar)",
+    "2": "Roubo seguido de morte",
+    "3": "Lesão corporal seguida de morte",
+    "4": "Extorsão mediante sequestro",
+    "5": "Roubo a ônibus",
+    "6": "Roubo a casa comercial",
+    "7": "Roubo a residência",
+    "8": "Roubo a transeunte (Pessoa transitando ou de passagem por algum lugar)",
+    "9": "Roubo a veículo",
+    "10": "Não tem problema de segurança",
+    "96": "Outros"
+},
+"56. O que poderia TRAZER SEGURANÇA para seu BAIRRO ": {
+    "1": "Policiamento ostensivo",
+    "2": "Efetivo policial",
+    "3": "Qualificação dos policiais",
+    "4": "Ronda no bairro",
+    "5": "Combate ao tráfico de drogas",
+    "6": "Ter uma delegacia/posto policial",
+    "7": "Investimentos em equipamentos e tecnologia [aparelhamento da polícia]",
+    "8": "Valorização e qualificação da força policial",
+    "9": "Combate à corrupção policial",
+    "10": "Incursões nos redutos do crime",
+    "11": "Intensificar blitz nas ruas",
+    "12": "Investimentos em infraestrutura no bairro",
+    "13": "Investimentos sócio educacionais",
+    "14": "Trabalho/ Emprego",
+    "96": "Outros",
+    "99": "Não se aplica"
+},
+"57.O que você faz no TEMPO LIVRE?": {
+    "1": "Descansa",
+    "2": "Assiste TV",
+    "3": "Atividade religiosa",
+    "4": "Vai à praia",
+    "5": "Pratica esporte",
+    "6": "Vai à casa de amigos",
+    "7": "Vai ao cinema",
+    "8": "Vai ao teatro",
+    "9": "Acessa a internet",
+    "10": "Ouvi rádio",
+    "11": "Lê livro não didático",
+    "12": "Não faz nada",
+    "96": "Outros",
+    "99": "Não se aplica"
+},
+"58.Quais veículos de informação você utiliza para se INFORMAR sobre a POLÍTICA": {
+    "1": "Revista",
+    "2": "Jornal",
+    "3": "Mídias Sociais",
+    "4": "Blogs",
+    "5": "Debates",
+    "6": "Livros",
+    "7": "Mural",
+    "8": "Não se informa, não se interessa",
+    "9": "Não se informa, tem dificuldade de acesso à informação",
+    "96": "Outros"
+},
+"59.Qual o meio de acesso a esses veículos?": {
+    "1": "Internet - Tablet",
+    "2": "Internet - PC",
+    "3": "Internet - Celular",
+    "4": "Internet – Lan House",
+    "5": "Rádio",
+    "6": "TV",
+    "96": "Outros",
+    "99": "Não se aplica"
+},
+"60. Você participa de alguma ORGANIZAÇÃO COMUNITÁRIA / POLÍTICA (associação, partido, movimentos sociais, etc. - marque a alternativa principal)": {
+    "1": "Sim, Partido Político",
+    "2": "Sim, Organização Comunitária",
+    "3": "Sim, Religiosa",
+    "4": "Não participa",
+    "96": "Outros"
+},
+"61. Em sua opinião, qual a CONDIÇÃO DO AMBIENTE URBANO em seu BAIRRO ": {
+    "1": "Muito boa",
+    "2": "Boa",
+    "3": "Regular",
+    "4": "Ruim",
+    "5": "Muito ruim"
+},
+"62. O que significa MORAR nesse BAIRRO para você ": {
+    "1": "Status",
+    "2": "Liberdade",
+    "3": "Autonomia",
+    "4": "Tranquilidade",
+    "5": "Paz",
+    "6": "Proximidade com a natureza",
+    "7": "Indiferença",
+    "8": "Desafeto",
+    "9": "Medo",
+    "10": "Praticidade",
+    "11": "Rede de apoio/Parentes/Amigos",
+    "12": "Insegurança/Violência",
+    "96": "Outros"
+}
+}
