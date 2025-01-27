@@ -48,3 +48,8 @@ def migrate_data(excel_file_path, output_csv_path):
         print(f"Erro ao migrar os dados: {e}")
     finally:
         client.close()
+        
+EXCEL_FILE_PATH = os.getenv("EXCEL_FILE_PATH")
+OUTPUT_CSV_PATH = os.getenv("OUTPUT_CSV_PATH")
+
+migrate_data(EXCEL_FILE_PATH, OUTPUT_CSV_PATH)
