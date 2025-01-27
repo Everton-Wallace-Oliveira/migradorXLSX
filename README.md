@@ -23,6 +23,7 @@ Instale as dependências executando:
 
 ```bash
 pip install pandas pymongo python-dotenv openpyxl
+```
 
 
 ## Como Usar
@@ -31,3 +32,26 @@ pip install pandas pymongo python-dotenv openpyxl
 2.Execute o script:
 ```bash
 python migrador.py
+```
+
+## SUPORTE AO USUÁRIO:
+- Para se conectar, entre em contato via email ou whatsapp:<br>
+   &nbsp;Wpp: +55 (71) 9 99125-6394 (também atende ligações).<br>
+    &nbsp;Email: everton542@hotmail.com
+
+## 🤝 Colaboradores:
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/everton-oliveira-b02a85150/">
+        <img src="img/perfilEverton.jfif" width="100px;" alt="Foto de Everton Oliveira"/><br>
+        <sub>
+          <b>Everton Oliveira - 25 anos, superior incompleto.</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
