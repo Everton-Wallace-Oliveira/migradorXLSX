@@ -49,7 +49,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://www.linkedin.com/in/everton-oliveira-b02a85150/">
         <img src="img/perfilEverton.jfif" width="100px;" alt="Foto de Everton Oliveira"/><br>
         <sub>
-          <b>Everton Oliveira - 25 anos, superior incompleto.</b>
+          <b>Everton Oliveira - 27 anos, superior incompleto.</b>
         </sub>
       </a>
     </td>
