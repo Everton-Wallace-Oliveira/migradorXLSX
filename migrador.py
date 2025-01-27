@@ -1,7 +1,10 @@
 import pandas as pd
 import json
+import os
 from pymongo import MongoClient
 from dotenv import load_dotenv
+
+load_dotenv()
 
 MONGO_URI = os.getenv("MONGO_URI")
 DATABASE_NAME = os.getenv("DATABASE_NAME")
@@ -49,7 +52,7 @@ def migrate_data(excel_file_path, output_csv_path):
     finally:
         client.close()
         
-EXCEL_FILE_PATH = os.getenv("EXCEL_FILE_PATH")
-OUTPUT_CSV_PATH = os.getenv("OUTPUT_CSV_PATH")
+EXCEL_FILE_PATH = r"C:\Users\Everton Oliveira\Documents\qualiSalvador\migrador\Banco de Dados QUALISALVADOR - Alto das Pombas.xlsx"
+OUTPUT_CSV_PATH = r"C:\Users\Everton Oliveira\Documents\qualiSalvador\migrador\Banco_de_Dados_Alterado.csv"
 
 migrate_data(EXCEL_FILE_PATH, OUTPUT_CSV_PATH)
